@@ -1,0 +1,9 @@
+main.c:52:6:delay_ms	24	static
+main.c:60:6:Flash_Onboard_LED	32	static
+main.c:81:6:Led_Init	16	static
+main.c:93:6:Button_Init	16	static
+main.c:111:6:Buzzer_Init	16	static
+main.c:122:9:Read_Button	16	static
+main.c:126:6:Set_Pin	16	static
+main.c:134:6:Flash_RGB_and_Buzzer	24	static
+main.c:147:5:main	16	static
